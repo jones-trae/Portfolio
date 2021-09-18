@@ -1,24 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Valton Jones. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "你好",
+      "description": "我是 Valton Jones，我是一名软件工程师，在教育、奖学金、公共和私人服务方面拥有 20 年的丰富经验。在过去的一年里，我决定改变职业，以找到一份更灵活、更有价值的软件开发工作，以利用我的多样化经验和教育。我以前是美国海军的作战专家，也是全球 4 个战区作战和维和行动的退伍军人。我在华盛顿大学学习艺术和政治学，在服务行业从入门级服务到企业培训再到管理，并为低收入住房短暂销售和管理商业和住宅房地产。我选择了这个转向软件开发，因为我在管理和培训方面的技能可以转化为更灵活和动态的角色，为改变世界的公司工作，让世界变得更好。理想情况下，我想将我在 JavaScript 和 CSS 方面的技术技能用于一家利用新兴技术提升人们生活和解决社会不公的公司。我希望在我们共同创造的更美好的明天见到你们",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "关于",
+        "projects": "项目",
+        "skills": "技能",
+        "experience": "经验"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "8 位黑杰克",
+        "startDate": "2021",
+        "description": "我们的任务是利用我们通过 Code Fellows Code 201 学到的技能创建一个网站。我们将使用 html、css、vanilla javascript，并且不使用 api 或数组方法，如 map、sort、foreach 等或 es6/7 类型功能。此外，我们需要利用本地存储，这是通过玩家数据完成的.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/Screen Shot 2021-09-15 at 9.22.21 PM.png",
+          "images/Start_Here.jpg"
         ],
-        "url": "",
+        "url": "https://teamslytherin201.github.io/blackjack/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
